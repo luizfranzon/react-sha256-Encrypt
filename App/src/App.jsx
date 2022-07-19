@@ -18,7 +18,7 @@ export function App() {
 
     function handleCopyHashValue() {
         navigator.clipboard.writeText(hashValue)
-        alert("Hash copied to the clipboard!")
+        alert("Hash copied to your clipboard!")
     }
 
     return (
