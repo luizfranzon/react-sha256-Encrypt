@@ -3,7 +3,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/luizfranzon/discordInviteLookup">
     <img src="./assets/icon.png" alt="Logo" width="80" height="80">
   </a>
 
