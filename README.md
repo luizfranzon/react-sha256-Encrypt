@@ -46,7 +46,7 @@ npm run dev
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add responsive layout
+- [ X ] Add responsive layout
 - [ ] General Improvements
 
 <hr>
